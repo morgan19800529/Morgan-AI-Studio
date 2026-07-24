@@ -1,0 +1,30 @@
+# --- Secrets (硬红线：任何密钥都不得提交) ---
+.env
+.env.*
+*.key
+*.pem
+secrets/
+**/secrets/
+*credentials*
+*apikey*
+*api_key*
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# --- Node / build ---
+node_modules/
+dist/
+build/
+.cache/
+*.log
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
