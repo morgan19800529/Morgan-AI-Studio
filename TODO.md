@@ -1,5 +1,24 @@
 # TODO
 
+## 进行中（Sprint · Day 3 — V2 AI 直播助手）
+- [x] 直播稿生成 Prompt v0.1（提词器友好 + 留人节点）
+- [x] 留人开场 Prompt v0.1
+- [x] workflow/AI直播助手：主题→稿件→提词最小闭环
+- [ ] 用真实主题跑 1 篇稿并开播验证留人效果
+- [ ] 「输入模板→稿件」一键表单原型
+
+## 已完成（Day 2 — 工程基座）
+- [x] HQ 目录规范与根级治理文档
+- [x] AGENTS 协作契约与回答规范
+- [x] 安全基线：.gitignore / SECURITY / 无密钥策略
+- [x] 全部基座文件自动提交进 GitHub
+
+## 下一 Sprint 候选
+- [ ] Prompt Library：口播结构 / 带货话术
+- [ ] Dashboard v0：手动填数的周复盘表
+- [ ] 复盘数据回流选题的最小 schema
+# TODO
+
 ## 进行中（Sprint · Day 2 — 工程基座）
 - [x] 搭建 HQ 目录规范与根级治理文档
 - [x] AGENTS 协作契约与回答规范
